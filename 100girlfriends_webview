@@ -1,0 +1,8 @@
+{
+  "id": "the100girlfriends_webview",
+  "name": "100Girlfriends WebView",
+  "version": 1,
+  "language": "en",
+  "type": "webview",
+  "url": "https://the100girlfriends.com"
+}
